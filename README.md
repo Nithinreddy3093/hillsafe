@@ -49,3 +49,16 @@ To set up this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/hill-safe.git
    cd hill-safe
+
+   ## Setup Instructions
+
+To set up this project locally, follow these steps:
+
+### Prerequisites:
+- Ensure you have **Node.js** and **npm** installed on your system.
+- A code editor, such as **Visual Studio Code**.
+
+### Install Dependencies:
+```bash
+npm install
+
