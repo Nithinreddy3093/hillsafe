@@ -2,7 +2,6 @@
 
 Hill Safe is a responsive web application built using modern technologies, designed to provide users with an engaging and intuitive interface for exploring and interacting with hill safety information. This app is currently deployed and accessible at [Hill Safe App](https://hill-safe.netlify.app/).
 
-![HillSafe App]("C:\Users\marth\OneDrive\Pictures\Screenshots\Screenshot 2024-12-12 004843.png")
 
 ---
 
